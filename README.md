@@ -1,7 +1,9 @@
 **Project Overview:**
+
 This project is a Resume Analyzer that takes a PDF resume as input, extracts text, and evaluates its quality using Natural Language Processing (NLP) techniques. It calculates an ATS (Applicant Tracking System) score based on the presence of important keywords and provides suggestions for improvement.
 
 **Features:**
+
 PDF Upload: Users can upload a resume in PDF format.
 
 Text Extraction: Extracts text using pdfminer.six.
@@ -17,6 +19,7 @@ Suggestions for Improvement: Recommends ways to optimize the resume.
 User Interface: Built with Streamlit for an interactive experience.
 
 **Technologies Used:**
+
 Python (Main language)
 
 Streamlit (User Interface)
@@ -30,6 +33,7 @@ pdfminer.six (PDF text extraction)
 
 
 **How It Works:**
+
 Upload a PDF Re
 
 Extract & Process the Text
